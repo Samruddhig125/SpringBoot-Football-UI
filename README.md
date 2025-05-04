@@ -13,4 +13,7 @@
 - Maven
 - Java
 
+## Data Source
+Match and league data were scraped using the SofaScore API and integrated into the application for analysis
+
 *Created as a learning project for football data analysis with a modern Java stack.*
